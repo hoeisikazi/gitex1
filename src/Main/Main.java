@@ -8,8 +8,7 @@ public class Main {
 		 Random ram = new Random();
 		 int i = ram.nextInt(101);
 		 System.out.println(i);
-		 //tesy
-		 //testerrrr
+
 	}
 
 }
